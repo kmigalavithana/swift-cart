@@ -1,6 +1,5 @@
 package com.swiftcart.product_service.response;
 
-import com.swiftcart.product_service.dtos.ProductResponse;
 import lombok.Data;
 
 // Every single request returns the exact same format.
