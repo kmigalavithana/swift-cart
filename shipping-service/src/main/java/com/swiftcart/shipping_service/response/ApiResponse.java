@@ -1,4 +1,4 @@
-package com.swiftcart.product_service.response;
+package com.swiftcart.shipping_service.response;
 
 import lombok.Data;
 
